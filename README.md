@@ -4,7 +4,7 @@ Please refer to email.
 
 there is a db file practical-test.sql uploaded here
 
-################################################################################################################
+#####################################################################################################
 
 C:\xampp\htdocs\practical-test>php artisan migrate
 
